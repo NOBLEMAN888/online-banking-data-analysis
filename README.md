@@ -5,6 +5,8 @@ Apache Spark.
 
 Цель — получить общую картину клиентской активности, доходов, расходов и поведения при использовании банковских услуг.
 
+<img src="./images/clients_by_age_distribution.png" alt="Clients by age distribution">
+
 ### Датасеты:
 
 - loans.csv — информация о кредитах, доходах и возвратах чеков.
